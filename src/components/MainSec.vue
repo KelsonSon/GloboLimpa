@@ -24,7 +24,7 @@
           <div class="bg-primary pa-15  caixa w-100"
           >
             <p class="text-body-2 text-md-body-1 text-justify ">
-              Bem-vindo à Limpa fossas Globo, sua solução confiável e eficiente para serviços especializados em desentupimento de fossas.
+              Bem-vindo à Limpa fossas Globo, sua solução confiável e eficiente para serviços especializados em limpeza de fossas.
             </p>
             <p class="text-body-2 text-md-body-1 text-justify ">
               Equipe altamente qualificada e experiente. Identificamos e resolvemos de forma rápida e eficaz com serviço de qualidade visando a satisfação total do cliente.
@@ -33,7 +33,7 @@
               Utilizamos equipamentos modernos e seguros, garantindo um padrão de qualidade e com respeito ao meio ambiente. Nossos caminhões são de 7m³ e 14m³.
             </p>
             <p class="text-body-2 text-md-body-1 text-justify ">
-              Entendemos a importância de uma fossa funcionando adequadamente para o bom funcionamento do seu sistema de esgoto. Portanto, estamos disponíveis 24 horas para sua satisfação. Conheça nossos serviços.
+              Entendemos a importância de uma fossa funcionando adequadamente para o bom funcionamento do seu sistema de esgoto. Portanto, estamos disponíveis de segunda a sábado para sua satisfação. Conheça nossos serviços.
             </p>
           </div>
         </v-col>
